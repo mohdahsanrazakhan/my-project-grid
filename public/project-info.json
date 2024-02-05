@@ -1,0 +1,142 @@
+[
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/001.png",
+    "projectTitle":"Random Color Palette",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/001%20-%20Random%20Color%20Palettes/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/001%20-%20Random%20Color%20Palettes"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/002.png",
+    "projectTitle":"To-Do List",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/002%20-%20To%20Do%20List/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/002%20-%20To%20Do%20List"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/003.png",
+    "projectTitle":"Drum Kit",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/003%20-%20Drum%20Kit/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/003%20-%20Drum%20Kit"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/004.png",
+    "projectTitle":"AD to Hijri Converter",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/004%20-%20AD%20to%20Hijri%20Convertor/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/004%20-%20AD%20to%20Hijri%20Convertor"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/005.png",
+    "projectTitle":"Random Advice",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/005%20-%20Random%20Advice/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/005%20-%20Random%20Advice"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/006.png",
+    "projectTitle":"Random Images",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/006%20-%20Random%20Images/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/006%20-%20Random%20Images"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/007.jpg",
+    "projectTitle":"QR Code",
+    "skills":["HTML","CSS"],
+    "externalUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/006%20-%20Random%20Images",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/007%20-%20QR%20Code"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/008.jpg",
+    "projectTitle":"NFT Preview Card",
+    "skills":["HTML","CSS"],
+    "externalUrl":"https://project-collection.netlify.app/008%20-%20NFT%20Preview%20Card/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/008%20-%20NFT%20Preview%20Card"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/009.jpg",
+    "projectTitle":"Advice Generator App",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/009%20-%20Advice%20Generator%20App/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/009%20-%20Advice%20Generator%20App"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/010.jpg",
+    "projectTitle":"Order Summary",
+    "skills":["HTML","CSS"],
+    "externalUrl":"https://project-collection.netlify.app/010%20-%20Order%20Summary/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/010%20-%20Order%20Summary"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/011.png",
+    "projectTitle":"Age Calculator App",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/011%20-%20Age%20Calculator%20App/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/011%20-%20Age%20Calculator%20App"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/012.png",
+    "projectTitle":"Stop Watch",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/012%20-%20Stopwatch/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/012%20-%20Stopwatch"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/013.png",
+    "projectTitle":"Check Leap Year",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/013%20-%20Leap%20Year/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/013%20-%20Leap%20Year"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/014.png",
+    "projectTitle":"Color Flipper",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/014%20-%20Color%20Flipper/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/014%20-%20Color%20Flipper"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/015.png",
+    "projectTitle":"Counter",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/015%20-%20Counter/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/015%20-%20Counter"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/016.png",
+    "projectTitle":"Review/Quotes",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/016%20-%20Reviews%20n%20Quotes/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/016%20-%20Reviews%20n%20Quotes"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/017.png",
+    "projectTitle":"Questions",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/017%20-%20Questions/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/017%20-%20Questions"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/018.png",
+    "projectTitle":"Countdown",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/018%20-%20Countdown/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/018%20-%20Countdown"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/020.png",
+    "projectTitle":"Model Window",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/020%20-%20Model%20Window/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/020%20-%20Model%20Window"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/021.png",
+    "projectTitle":"Navbar",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/020%20-%20Model%20Window",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/020%20-%20Model%20Window"
+  }
+]
