@@ -136,7 +136,21 @@
     "imgUrl":"https://project-collection.netlify.app/assets/021.png",
     "projectTitle":"Navbar",
     "skills":["HTML","CSS","JavaScript"],
-    "externalUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/020%20-%20Model%20Window",
+    "externalUrl":"https://project-collection.netlify.app/020%20-%20Model%20Window/index.html",
     "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/020%20-%20Model%20Window"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/022.png",
+    "projectTitle":"Menu",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/022%20-%20Menu/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/022%20-%20Menu"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/023.png",
+    "projectTitle":"ColorPlay Dots",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/023%20-%20ColorPlay%20Dots/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/023%20-%20ColorPlay%20Dots"
   }
 ]
