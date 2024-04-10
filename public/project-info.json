@@ -152,5 +152,48 @@
     "skills":["HTML","CSS","JavaScript"],
     "externalUrl":"https://project-collection.netlify.app/023%20-%20ColorPlay%20Dots/index.html",
     "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/023%20-%20ColorPlay%20Dots"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/029.png",
+    "projectTitle":"Independence Day",
+    "skills":["HTML","CSS","JavaScript"],
+    "externalUrl":"https://project-collection.netlify.app/029%20-%20independence%20day/",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/029%20-%20Independence%20Day"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/025.jpg",
+    "projectTitle":"Product Preview Card",
+    "skills":["HTML","CSS"],
+    "externalUrl":"https://project-collection.netlify.app/025%20-%20Product%20Preview%20Card%20Component%20Main/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/025%20-%20Product%20Preview%20Card%20Component%20Main"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/027.png",
+    "projectTitle":"Dice Game",
+    "skills":["HTML","CSS"],
+    "externalUrl":"https://project-collection.netlify.app/027%20-%20Dice%20Game/index.html",
+    "githubUrl":"https://github.com/mohdahsanrazakhan/Projects-Gallery/tree/main/027%20-%20Dice%20Game"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/iCodeThis-Percentage-Calculator.png",
+    "projectTitle":"Percentage Calculator",
+    "skills":["HTML","Tailwind CSS, JavaScript"],
+    "externalUrl":"https://icodethis.com/submissions/14422",
+    "githubUrl":"https://www.icodethis.com/md_mark"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/iCodeThis-Search-Bar-2.png",
+    "projectTitle":"Search Bar 2",
+    "skills":["HTML","Tailwind CSS, JavaScript"],
+    "externalUrl":"https://icodethis.com/submissions/14482",
+    "githubUrl":"https://www.icodethis.com/md_mark"
+  },
+  {
+    "imgUrl":"https://project-collection.netlify.app/assets/iCodeThis-Share-Article-Model.png",
+    "projectTitle":"Share Article Model",
+    "skills":["HTML","Tailwind CSS, JavaScript"],
+    "externalUrl":"https://www.icodethis.com/submissions/12470",
+    "githubUrl":"https://www.icodethis.com/md_mark"
   }
+  
 ]
